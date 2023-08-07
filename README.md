@@ -21,7 +21,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  * Her operasyon sonrasında liste sort edilmeli
  * Listede hiçbir şekilde tekrar eden veri bulunmamalı.
  
-### Mobile Phone
+### MobilePhone Phone
 
 * ```MobilePhone``` isimli bir sınıf oluşturacağız. İçerisinde Contact tipinde bir ArrayList tutmalı.
 * 2 tane field tutması lazım. Bir tanesi ```myNumber``` isminde ve String tipinde, diğer, ```myContacts``` isminde ve Contact ArrayList'i olmalı.
